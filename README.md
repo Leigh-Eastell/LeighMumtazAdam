@@ -1,6 +1,29 @@
 # LeighMumtazAdam
 
 
+Task:
+
+*Our task is to create a style guide to create a website displaying food recipes in a responsive, interactive, and modular way.
+
+
+
+
+-------------------------------------------
+
+
+
+
+Goal:
+
+*Our goal is to have a design guide that comprehensively offers a consistent and ‘on-brand’ holistic reference guide for future 
+ use in creating wireframes. We will utilise an agile approach to respond to any changes our clients should want.
+
+
+
+-------------------------------------------
+
+
+
 Colours: 
 
 * Colour Theme For Logo's, buttons, star ratings will be Orange.
