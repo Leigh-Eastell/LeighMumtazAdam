@@ -5,6 +5,8 @@
 Colours: 
 
 Colour Theme For Logo's, buttons, star ratings will be Orange.
+Background White
+
 
 
 
@@ -14,36 +16,7 @@ Typography: One main font i.e Baskerville, serif ,
 
 
 
-Forms
 
-:
-* A search bar for recipes using the same font as <p>
-
-*
- 
-  
-
- 
- 
- 
-
-
-Forms
-
-:
-* A search bar for recipes using the same font as <p>
-
-*
- 
-  
-
- 
- 
- 
-
-
-
-Forms
 
 :
 * A search bar for recipes using the same font as <p>
